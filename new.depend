@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1609082706 source:g:\3-2\gl project\new\new.cpp
+	<stdio.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<math.h>
+	<algorithm>
+	<stdlib.h>
+
+1627993036 source:g:\iit\3-2\gl project\new\new.cpp
+	<stdio.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<math.h>
+	<algorithm>
+	<stdlib.h>
+
